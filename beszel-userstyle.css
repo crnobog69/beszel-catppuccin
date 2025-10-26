@@ -1,0 +1,34 @@
+/* ==UserStyle==
+@name           Beszel - Catppuccin Mocha Green
+@namespace      github.com/crnobog69/beszel-catppuccin
+@version        1.0.0
+@description    Beszel theme based on Catppuccin Mocha Green
+@author         crnobog69
+@homepageURL    https://github.com/crnobog69/beszel-catppuccin
+@supportURL     https://github.com/crnobog69/beszel-catppuccin/issues
+@license        MIT
+==/UserStyle== */
+
+.dark {
+    color-scheme: dark;
+    --background: #1e1e2e;
+    --foreground: #cdd6f4;
+    --card: #181825;
+    --card-foreground: #cdd6f4;
+    --popover: #1e1e2e;
+    --popover-foreground: #cdd6f4;
+    --primary: #a6e3a1;
+    --primary-foreground: #1e1e2e;
+    --secondary: #313244;
+    --secondary-foreground: #cdd6f4;
+    --muted: #45475a;
+    --muted-foreground: #bac2de;
+    --accent: #a6e3a1;
+    --accent-foreground: #1e1e2e;
+    --destructive: #f38ba8;
+    --border: #313244;
+    --input: #45475a;
+    --ring: #a6e3a1;
+    --table-header: #181825;
+    --radius: .8rem;
+}
